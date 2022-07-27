@@ -36,4 +36,4 @@ A freshman computer science student and self-taught programmer and have the abil
 - Earn a summer internship during the summer of freshman year of college
 
 # Github stats thanks to Anurag Hazra:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Josh-Hiz?cardType=github&theme=great-gatsby&Border=FFFFFF)](https://git.io/awesome-stats-card)
+[![Josh-Hiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-Hiz&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
