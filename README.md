@@ -26,5 +26,5 @@ A freshman computer science student and self-taught programmer and have the abil
 - Continue learning C/C++ with GUI library (SFML & Qt) as well as continue learning Java with fun projects. Some project ideas include more algorithm visualizations, graphical mathematical simulations, etc. 
 - Earn a summer internship during the summer of freshman year of college
 
-##Github stats thanks to Anurag Hazra:
+## Github stats thanks to Anurag Hazra:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Josh-Hiz?cardType=github&theme=great-gatsby&Border=FFFFFF)](https://git.io/awesome-stats-card)
