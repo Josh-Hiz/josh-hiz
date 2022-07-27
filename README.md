@@ -22,16 +22,16 @@ A freshman computer science student and self-taught programmer and have the abil
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+### Linux experience:
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ### Current objectives/goals:
 - Programming certification in C++ (Linkedin) & Java SE 8 from Oracle before September
 - Docker DCA certification and AWS Certified cloud practioner
 - Continue learning C/C++ with GUI library (SFML & Qt) as well as continue learning Java with fun projects. Some project ideas include more algorithm visualizations, graphical mathematical simulations, etc. 
 - Earn a summer internship during the summer of freshman year of college
-
-## Linux experience:
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 # Github stats thanks to Anurag Hazra:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Josh-Hiz?cardType=github&theme=great-gatsby&Border=FFFFFF)](https://git.io/awesome-stats-card)
