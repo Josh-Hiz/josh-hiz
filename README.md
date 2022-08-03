@@ -33,8 +33,7 @@ A freshman computer science student and self-taught programmer and have the abil
 ### Current objectives/goals:
 - Programming certification in C++ (Linkedin) & Java SE 8 from Oracle before September
 - Docker DCA certification and AWS Certified cloud practioner
-- Continue learning C/C++ with GUI library (SFML & ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-) as well as continue learning Java with fun projects. Some project ideas include more algorithm visualizations, graphical mathematical simulations, etc. 
+- Continue learning C/C++ with GUI library (SFML & Qt) as well as continue learning Java with fun projects. Some project ideas include more algorithm visualizations, graphical mathematical simulations, etc. 
 - Earn a summer internship during the summer of freshman year of college
 
 # Github stats thanks to Anurag Hazra:
