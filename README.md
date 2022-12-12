@@ -9,6 +9,7 @@ A freshman computer science student and self-taught programmer and have the abil
 3. Algorithms, mathematical simulations using GUI's 
 4. Machine learning 
 5. Quantitative development using C++
+6. WebAssembly to display my CS projects on the web
 
 ### What are the languages I have experience with?
 - Java
@@ -33,7 +34,7 @@ A freshman computer science student and self-taught programmer and have the abil
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### Current objectives/goals:
-- Programming certification in C++ (Linkedin) & Java SE 8 from Oracle before September
+- Programming certification in C++ (Linkedin) & Java SE 8 from Oracle before September -- Completed
 - Docker DCA certification and AWS Certified cloud practioner
 - Continue learning C/C++ with GUI library (SFML & Qt) as well as continue learning Java with fun projects. Some project ideas include more algorithm visualizations, graphical mathematical simulations, etc. 
 - Earn a summer internship during the summer of freshman year of college
