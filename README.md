@@ -2,7 +2,8 @@
 -----
 ## Who am I?
 A freshman computer science student and self-taught programmer and have the ability to self-teach myself advanced mathematics :computer:
-Currently looking for internship opportunities 
+
+Currently looking for internship opportunities, feel free to email at jhizgiaev2704@gmail.com
 
 ### Interests and concentrations/endeavors:
 1. Creating artificial intelligence to simulate theoretical concepts in mathematics and computer science as well as finance using data science tools such as Tensorflow, NumPy, SciPy, and Pandas
@@ -35,9 +36,10 @@ Currently looking for internship opportunities
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### Current objectives/goals:
-- Programming certification in C++ (Linkedin) & Java SE 8 from Oracle before September -- Completed
-- Docker DCA certification and AWS Certified cloud practioner
-- Continue learning C/C++ with GUI library (SFML & Qt) as well as continue learning Java with fun projects. Some project ideas include more algorithm visualizations, graphical mathematical simulations, etc. 
+- Programming certification in C++ (Linkedin) before September -- Completed
+- Docker DCA certification and AWS Certified cloud during the summer
+- Continue learning machine learning and AI development with unique projects to showcase my progress
+- Bring my projects to the web using Web Assembly 
 - Earn a summer internship during the summer of freshman year of college
 
 # Github stats thanks to Anurag Hazra:
