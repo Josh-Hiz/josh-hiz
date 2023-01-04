@@ -2,9 +2,10 @@
 -----
 ## Who am I?
 A freshman computer science student and self-taught programmer and have the ability to self-teach myself advanced mathematics :computer:
+Currently looking for internship opportunities 
 
 ### Interests and concentrations/endeavors:
-1. Embedded programming with C/C++ or Arduino 
+1. Creating artificial intelligence to simulate theoretical concepts in mathematics and computer science as well as finance using data science tools such as Tensorflow, NumPy, SciPy, and Pandas
 2. Object-Oriented Programming
 3. Algorithms, mathematical simulations using GUI's 
 4. Machine learning 
