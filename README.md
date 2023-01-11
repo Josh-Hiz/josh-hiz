@@ -1,7 +1,7 @@
 # Hi there, my name is Joshua Hizgiaev 
 -----
 ## Who am I?
-A freshman computer science student and self-taught programmer and have the ability to self-teach myself advanced mathematics :computer:
+A freshman computer science student and self-taught programmer and have great interest/passion for mathematics :computer:
 
 Currently looking for internship opportunities, feel free to email at jhizgiaev2704@gmail.com
 
