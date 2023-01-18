@@ -43,4 +43,4 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 - Earn a summer internship during the summer of freshman year of college
 
 # Github stats thanks to Anurag Hazra:
-[![Josh-Hiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-Hiz&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Josh-Hiz's GitHub stats](https://github-readme-stats-zeta-lovat.vercel.app/api?username=Josh-Hiz&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
