@@ -8,10 +8,9 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 ### Interests and concentrations/endeavors:
 1. Creating artificial intelligence to simulate theoretical concepts in mathematics and computer science as well as finance using data science tools such as Tensorflow, NumPy, SciPy, and Pandas
 2. Object-Oriented Programming
-3. Algorithms, mathematical simulations using GUI's 
-4. Machine learning 
-5. Quantitative development using C++
-6. WebAssembly to display my CS projects on the web
+3. Data Structures and Algorithms
+4. Machine learning (Kinda similar to the first point)
+5. Quantitative development using C++ (HFT's hopefully one day)
 
 ### What are the languages I have experience with?
 - Java
@@ -34,11 +33,10 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### Current objectives/goals:
-- Programming certification in C++ (Linkedin) before September -- Completed
-- Docker DCA certification and AWS Certified cloud during the summer
-- Continue learning machine learning and AI development with unique projects to showcase my progress
-- Bring my projects to the web using Web Assembly 
+- Continue learning machine learning and AI development with unique projects to showcase my progress (most likely tensorflow) over the summer
 - Earn a summer internship during the summer of freshman year of college
+- Study Data Structures and Algorithms in the summer using C++ and/or Python using pretty good books
+- Practice the above with leetcode
 
 # Github stats thanks to Anurag Hazra:
 [![Josh-Hiz's GitHub stats](https://github-readme-stats-zeta-lovat.vercel.app/api?username=Josh-Hiz&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
