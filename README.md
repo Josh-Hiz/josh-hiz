@@ -1,12 +1,12 @@
 # Hi there, my name is Joshua Hizgiaev 
 -----
 ## Who am I?
-A freshman computer science student and self-taught programmer and have great interest/passion for mathematics :computer:
+A freshman computer science student and self-taught programmer and have great interest in mathematics for AI (linear algebra) :computer:
 
 Currently looking for internship opportunities, feel free to email at jhizgiaev2704@gmail.com
 
 ### Interests and concentrations/endeavors:
-1. Creating artificial intelligence to simulate theoretical concepts in mathematics and computer science as well as finance using data science tools such as Tensorflow, NumPy, SciPy, and Pandas
+1. Creating artificial intelligence for theoretical concepts in mathematics and computer science as well as finance using data science tools such as Tensorflow, NumPy, SciPy, and Pandas
 2. Object-Oriented Programming
 3. Data Structures and Algorithms
 4. Machine learning (Kinda similar to the first point)
