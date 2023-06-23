@@ -1,16 +1,19 @@
 # Hi there, my name is Joshua Hizgiaev 
------
+--------------------------------------
 ## Who am I?
 A freshman computer science student and self-taught programmer and have great interest in mathematics for AI (linear algebra) :computer:
 
 Currently looking for internship opportunities, feel free to email at jhizgiaev2704@gmail.com
 
+### What I been doing now
+- I am a research assistant for [Professor Michael Greenberg](https://greenberg.science/) from Stevens on Static Site Generation, specfically on performance handling and building web tools and applications to run web-assembly IDE's on just a front-end!
+- I additionally am a AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), currently working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market!
+
 ### Interests and concentrations/endeavors:
-1. Creating artificial intelligence for theoretical concepts in mathematics and computer science as well as finance using data science tools such as Tensorflow, NumPy, SciPy, and Pandas
-2. Object-Oriented Programming
-3. Data Structures and Algorithms
-4. Machine learning (Kinda similar to the first point)
-5. Quantitative development using C++ (HFT's hopefully one day)
+1. Creating artificial intelligence for theoretical concepts in mathematics and computer science as well as finance using data science tools such as PyTorch, NumPy, SciPy, and Pandas, Finance API's, etc
+2. Data Structures and Algorithms
+3. Machine learning (Kinda similar to the first point)
+4. Quantitative development using C++ (HFT's hopefully one day)
 
 ### What are the languages I have experience with?
 - Java
