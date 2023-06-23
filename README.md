@@ -47,5 +47,4 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 - Practice the above with leetcode
 
 ### Github Stats:
-![](https://raw.githubusercontent.com/josh-hiz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/josh-hiz/github-stats/master/generated/overview.svg#gh-light-mode-only)
