@@ -41,10 +41,15 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### Current objectives/goals:
-- Continue learning machine learning and AI development with unique projects to showcase my progress (most likely tensorflow) over the summer
+- Continue learning machine learning and AI development with unique projects to showcase my progress (most likely pytorch) over the summer
 - Earn a summer internship during the summer of freshman year of college
 - Study Data Structures and Algorithms in the summer using C++ and/or Python using pretty good books
 - Practice the above with leetcode
 
-# Github stats thanks to Anurag Hazra:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-hiz)](https://github.com/anuraghazra/github-readme-stats)
+### Github Stats:
+![](https://raw.githubusercontent.com/josh-hiz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/josh-hiz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
+![](https://raw.githubusercontent.com/josh-hiz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/josh-hiz/github-stats/master/generated/languages.svg#gh-light-mode-only)
