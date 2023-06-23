@@ -48,11 +48,7 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 
 ### Github Stats:
 
-[![](https://raw.githubusercontent.com/josh-hiz/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/josh-hiz/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/josh-hiz/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/josh-hiz/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/josh-hiz/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-
-
-
+[![](https://raw.githubusercontent.com/Josh-Hiz/josh-hiz/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Josh-Hiz/josh-hiz/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Josh-Hiz/josh-hiz/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Josh-Hiz/josh-hiz/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Josh-Hiz/josh-hiz/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
