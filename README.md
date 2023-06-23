@@ -7,7 +7,7 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 
 ### What I been doing now
 - I am a research assistant for [Professor Michael Greenberg](https://greenberg.science/) from Stevens on Static Site Generation, specfically on performance handling and building web tools and applications to run web-assembly IDE's on just a front-end!
-- I additionally am a AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), currently working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market!
+- I additionally am a AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), currently working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
 
 ### Interests and concentrations/endeavors:
 1. Creating artificial intelligence for theoretical concepts in mathematics and computer science as well as finance using data science tools such as PyTorch, NumPy, SciPy, and Pandas, Finance API's, etc
