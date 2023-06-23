@@ -47,4 +47,4 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 - Practice the above with leetcode
 
 # Github stats thanks to Anurag Hazra:
-[![Josh-Hiz's GitHub stats](https://github-readme-stats-zeta-lovat.vercel.app/api?username=Josh-Hiz&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josh-hiz)](https://github.com/anuraghazra/github-readme-stats)
