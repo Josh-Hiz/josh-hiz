@@ -47,4 +47,7 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 - Practice the above with leetcode
 
 ### Github Stats:
-![](https://raw.githubusercontent.com/josh-hiz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={josh-hiz}&theme={gruvbox}
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={josh-hiz}&theme={gruvbox}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={josh-hiz}&theme={gruvbox}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={josh-hiz}&theme={gruvbox}
