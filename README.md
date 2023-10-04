@@ -1,19 +1,19 @@
 # Hi there, my name is Joshua Hizgiaev 
 --------------------------------------
 ## Who am I?
-A freshman computer science student and self-taught programmer and have great interest in mathematics for AI (linear algebra) :computer:
+A sophomore computer science student and self-taught programmer and have great interest in mathematics for AI :computer:
 
 Currently looking for internship opportunities, feel free to email at jhizgiaev2704@gmail.com
 
-### What I been doing now
+### What I have been doing now
 - I am a research assistant for [Professor Michael Greenberg](https://greenberg.science/) from Stevens on Static Site Generation, specfically on performance handling and building web tools and applications to run web-assembly IDE's on just a front-end!
 - I additionally am a AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), currently working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
 
 ### Interests and concentrations/endeavors:
 1. Creating artificial intelligence for theoretical concepts in mathematics and computer science as well as finance using data science tools such as PyTorch, NumPy, SciPy, and Pandas, Finance API's, etc
-2. Data Structures and Algorithms
+2. Data Structures and Algorithms with LeetCode and solving coding problems!
 3. Machine learning (Kinda similar to the first point)
-4. Quantitative development using C++ (HFT's hopefully one day)
+4. Quantitative development/Data Science using C++/Python (HFT's hopefully one day)
 
 ### What are the languages I have experience with?
 - Java
@@ -41,10 +41,10 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### Current objectives/goals:
-- Continue learning machine learning and AI development with unique projects to showcase my progress (most likely pytorch) over the summer
-- Earn a summer internship during the summer of freshman year of college
-- Study Data Structures and Algorithms in the summer using C++ and/or Python using pretty good books
-- Practice the above with leetcode
+- Continue learning machine learning, AI development, and Data Science with unique projects to showcase my progress (most likely pytorch)
+- Grind NeetCode in Python and learn problem solving for LeetCodes, also read cracking the coding interview in spare time
+- Grind through and take notes on the best Algo Playlist on YT: https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+- Get a summer SWE internship for the summer of 2024!
 
 ### Github Stats:
 
