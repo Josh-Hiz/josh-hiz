@@ -22,6 +22,7 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 - JavaScript
 - HTML/CSS
 - Python
+- OCaml
 
 ### Languages I am actually confortable with:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,10 +42,9 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### Current objectives/goals:
-- Continue learning machine learning, AI development, and Data Science with unique projects to showcase my progress (most likely pytorch)
+- Continue learning machine learning, AI development, and Data Science with unique projects to showcase my progress (Basically grind projects)
 - Grind NeetCode in Python and learn problem solving for LeetCodes, also read cracking the coding interview in spare time
-- Grind through and take notes on the best Algo Playlist on YT: https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
-- Get a summer SWE internship for the summer of 2024!
+- Read, read, and do more reading!
 
 ### Github Stats:
 
