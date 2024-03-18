@@ -1,4 +1,4 @@
-# Hi there, my name is Joshua Hizgiaev 
+# Hi there, my name is Josh H 
 --------------------------------------
 ## Who am I?
 A sophomore computer science student and self-taught programmer and have great interest in mathematics for AI :computer:
