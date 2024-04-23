@@ -12,7 +12,7 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 - I additionally was a AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
 
 ### Current interests and concentrations/endeavors:
-1. Creating Machine Learning Models and building Neural Networks for theoretical concepts in mathematics and computer science as well as finance using data science tools such as PyTorch, NumPy, SciPy, and Pandas, Finance API's, etc.
+1. Continuing to learn about and create Machine Learning models and building Neural Networks for theoretical concepts in mathematics and computer science as well as finance using data science tools such as PyTorch, NumPy, SciPy, and Pandas, Finance API's, etc.
 2. Data Structures and Algorithms with NeetCode.
 3. Continuing to work on various Stocko software and related projects over the summer.
 4. Continuing to learn quantitative development/data science using C++/Python (HFT grind). 
