@@ -1,19 +1,21 @@
 # Hi there, my name is Josh H 
 --------------------------------------
 ## Who am I?
-A sophomore computer science student and self-taught programmer and have great interest in mathematics for AI :computer:
+A sophomore computer science student and self-taught programmer and have great interest in mathematics for AI (matrix calculus is a funny thing) :computer:
 
 Currently looking for internship opportunities, feel free to email at jhizgiaev2704@gmail.com
 
 ### What I have been doing now
-- I am a research assistant for [Professor Michael Greenberg](https://greenberg.science/) from Stevens on Static Site Generation, specfically on performance handling and building web tools and applications to run web-assembly IDE's on just a front-end!
-- I additionally am a AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), currently working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
+- This summer/late May I will be joining [PanAgora Asset Management](https://www.panagora.com/), one of Boston's biggest hedgefunds as a software engineer intern! Additionally this summer I will also be once again working as a researcher at Stevens, this summer is gonna be quite busy. 
+#### Previously I have been:
+- A research assistant for [Professor Michael Greenberg](https://greenberg.science/) from Stevens on Static Site Generation, specfically on performance handling and building web tools and applications to run web-assembly IDE's on just a front-end!
+- I additionally was a AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
 
-### Interests and concentrations/endeavors:
-1. Creating artificial intelligence for theoretical concepts in mathematics and computer science as well as finance using data science tools such as PyTorch, NumPy, SciPy, and Pandas, Finance API's, etc
-2. Data Structures and Algorithms with LeetCode and solving coding problems!
-3. Machine learning (Kinda similar to the first point)
-4. Quantitative development/Data Science using C++/Python (HFT's hopefully one day)
+### Current interests and concentrations/endeavors:
+1. Creating Machine Learning Models and building Neural Networks for theoretical concepts in mathematics and computer science as well as finance using data science tools such as PyTorch, NumPy, SciPy, and Pandas, Finance API's, etc.
+2. Data Structures and Algorithms with NeetCode.
+3. Continuing to work on various Stocko software and related projects over the summer.
+4. Continuing to learn quantitative development/data science using C++/Python (HFT grind). 
 
 ### What are the languages I have experience with?
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
