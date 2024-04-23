@@ -11,11 +11,12 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 - A research assistant for [Professor Michael Greenberg](https://greenberg.science/) from Stevens on Static Site Generation, specfically on performance handling and building web tools and applications to run web-assembly IDE's on just a front-end!
 - I additionally was a AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
 
-### Current interests and concentrations/endeavors:
+### Current interests, concentrations/endeavors, and goals:
 1. Continuing to learn about and create Machine Learning models and building Neural Networks for theoretical concepts in mathematics and computer science as well as finance using data science tools such as PyTorch, NumPy, SciPy, and Pandas, Finance API's, etc.
 2. Data Structures and Algorithms with NeetCode.
 3. Continuing to work on various Stocko software and related projects over the summer.
-4. Continuing to learn quantitative development/data science using C++/Python (HFT grind). 
+4. Continuing to learn quantitative development/data science using C++/Python (HFT grind).
+5. Read, read, and do more reading! (Basically how I will work on the previous 4)
 
 ### What are the languages I have experience with?
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,8 +43,3 @@ Currently looking for internship opportunities, feel free to email at jhizgiaev2
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-
-### Current objectives/goals:
-- Continue learning machine learning, AI development, and Data Science with unique projects to showcase my progress (Basically grind projects)
-- Grind NeetCode in Python and learn problem solving for LeetCodes, also read cracking the coding interview in spare time
-- Read, read, and do more reading!
