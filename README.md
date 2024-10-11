@@ -1,11 +1,11 @@
 # Hi there, my name is Josh H 
 --------------------------------------
 ## Who am I?
-A sophomore computer science student and self-taught programmer and have great interest in mathematics for AI (matrix calculus is a funny thing) :computer:
+A junior computer science student and self-taught programmer and have great interest in mathematics for AI (matrix calculus is a funny thing) :computer:
 
 Currently looking for internship opportunities, feel free to email at jhizgiaev2704@gmail.com
 
-### What I have been doing now
+### What I was doing last summer
 - This summer/late May I will be joining [PanAgora Asset Management](https://www.panagora.com/), one of Boston's biggest hedgefunds as a software engineer intern! Additionally this summer I will also be once again working as a researcher at Stevens, this summer is gonna be quite busy. 
 #### Previously I have been:
 - A research assistant for [Professor Michael Greenberg](https://greenberg.science/) from Stevens on Static Site Generation, specfically on performance handling and building web tools and applications to run web-assembly IDE's on just a front-end!
