@@ -8,15 +8,17 @@ A junior CS+Mathematics student and self-taught programmer, interested in high f
 
 Always looking for internship opportunities, feel free to email at <jhizgiae@stevens.edu>
 
-### What I was doing last summer
+### What I am currently up to
 
-- Last summer/late May I joined [PanAgora Asset Management](https://www.panagora.com/), one of Boston's biggest hedgefunds as a software engineer intern! Additionally last summer I was also working as a researcher at Stevens.
+I will be working as a software engineer/quantitative developer intern at [Quantifi](https://www.quantifisolutions.com), this summer starting late May at their New Jersey/NewYork locations! Incredibly excited to work on quantitative tools and trading software used by many top hedgefunds and firms!
 
 ### Previously I have been
 
+- May 2024 I joined [PanAgora Asset Management](https://www.panagora.com/), one of Boston's biggest hedgefunds as a software engineer intern! Additionally last summer I was also working as a researcher at Stevens.
+
 - A research assistant for [Professor Michael Greenberg](https://greenberg.science/) from Stevens on Static Site Generation, specfically on performance handling and building web tools and applications to run web-assembly IDE's on just a front-end! [Check it out!](https://cs515s2024.greenberg.science).
 
-- I additionally was a AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
+- AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
 
 ## Languages
 
