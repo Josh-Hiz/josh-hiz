@@ -1,24 +1,22 @@
 # Hi there, my name is Josh
 
---------------------------------------
-
 ## Who am I?
 
-A junior CS+Mathematics student and self-taught programmer, interested in high frequency trading, quantitative research, low-level systems programming, ML algorithms, computational physics, and many more.
+A rising senior Computer Science and Mathematics student and self-taught programmer, interested in high frequency trading, quantitative research, low-level systems programming, ML algorithms, computational physics, and many more.
 
-Always looking for internship opportunities, feel free to email at <jhizgiae@stevens.edu>
+Always looking for new graduate full-time and internship opportunities, feel free to email at <jhizgiae@stevens.edu>
 
 ### What I am currently up to
 
 I will be working as a software engineer/quantitative developer intern at [Quantifi](https://www.quantifisolutions.com), this summer starting late May at their New Jersey/NewYork locations! Incredibly excited to work on quantitative tools and trading software used by many top hedgefunds and firms!
 
-### Previously I have been
+### What I have previously been up to
 
-- May 2024 I joined [PanAgora Asset Management](https://www.panagora.com/), one of Boston's biggest hedgefunds as a software engineer intern! Additionally last summer I was also working as a researcher at Stevens.
+- May-August 2024: I joined [PanAgora Asset Management](https://www.panagora.com/), one of Boston's biggest hedgefunds and tier-one asset manager as a software engineer intern!
 
-- A research assistant for [Professor Michael Greenberg](https://greenberg.science/) from Stevens on Static Site Generation, specfically on performance handling and building web tools and applications to run web-assembly IDE's on just a front-end! [Check it out!](https://cs515s2024.greenberg.science).
+- June-August 2023: AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
 
-- AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
+- April-August 2023: A research assistant for [Professor Michael Greenberg](https://greenberg.science/) from Stevens on Static Site Generation, specfically on performance handling and building web tools and applications to run web-assembly IDE's on just a front-end! [Check it out!](https://cs515s2024.greenberg.science).
 
 ## Languages
 
