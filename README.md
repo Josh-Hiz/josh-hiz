@@ -8,11 +8,13 @@ Always looking for new graduate full-time and internship opportunities, feel fre
 
 ### What I am currently up to
 
-I will be working as a software engineer/quantitative developer intern at [Quantifi](https://www.quantifisolutions.com), this summer starting late May at their New Jersey/NewYork locations! Incredibly excited to work on quantitative tools and trading software used by many top hedgefunds and firms!
+My most recent internship at Quantifi has ended, so as of right now I am currently looking for full time new graduate opportunities in the quant space for 2026, and just finishing up my last year of undergradute!
 
 ### What I have previously been up to
 
-- May-August 2024: I joined [PanAgora Asset Management](https://www.panagora.com/), one of Boston's biggest hedgefunds and tier-one asset manager as a software engineer intern!
+- May-August 2025: Joined Quantifi as a quantitative developer intern at [Quantifi](https://www.quantifisolutions.com).
+
+- May-August 2024: I joined [PanAgora Asset Management](https://www.panagora.com/), one of Boston's biggest hedgefunds and tier-one asset manager as a software engineer intern.
 
 - June-August 2023: AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
 
