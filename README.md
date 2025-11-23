@@ -1,14 +1,12 @@
-# Hi there, my name is Josh
+# Hi there
 
 ## Who am I?
 
 A rising senior Computer Science and Mathematics student and self-taught programmer, interested in high frequency trading, quantitative research, low-level systems programming, ML algorithms, computational physics, and many more.
 
-Always looking for new graduate full-time and internship opportunities, feel free to email at <jhizgiae@stevens.edu>
+My current research interests that I want to pursue in graduate school include high-performance computing/parallelism, computer architectures, and GPU computing/architectures.
 
-### What I am currently up to
-
-My most recent internship at Quantifi has ended, so as of right now I am currently looking for full time new graduate opportunities in the quant space for 2026, and just finishing up my last year of undergradute!
+Always open to hearing about opportunities for new graduate full-time or internship opportunities, feel free to email me at <jhizgiae@stevens.edu>.
 
 ### What I have previously been up to
 
@@ -16,7 +14,7 @@ My most recent internship at Quantifi has ended, so as of right now I am current
 
 - May-August 2024: I joined [PanAgora Asset Management](https://www.panagora.com/), one of Boston's biggest hedgefunds and tier-one asset manager as a software engineer intern.
 
-- June-August 2023: AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence), working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
+- June-August 2023: AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence) under [Dr. Jeffrey Nickerson](https://www.stevens.edu/profile/jnickers), working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
 
 - April-August 2023: A research assistant for [Professor Michael Greenberg](https://greenberg.science/) from Stevens on Static Site Generation, specfically on performance handling and building web tools and applications to run web-assembly IDE's on just a front-end! [Check it out!](https://cs515s2024.greenberg.science).
 
