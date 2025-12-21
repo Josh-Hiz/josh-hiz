@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-A rising senior Computer Science and Mathematics student and self-taught programmer, interested in high frequency trading, quantitative research, low-level systems programming, ML algorithms, computational physics, and many more.
+A senior Computer Science and Mathematics student and self-taught programmer, interested in high frequency trading, quantitative research, low-level systems programming, ML algorithms, computational physics, and many more.
 
 My current research interests that I want to pursue in graduate school include high-performance computing/parallelism, computer architectures, and GPU computing/architectures.
 
