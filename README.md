@@ -4,9 +4,7 @@
 
 A senior Computer Science and Mathematics student and self-taught programmer, interested in high frequency trading, quantitative research, low-level systems programming, ML algorithms, computational physics, and many more.
 
-My current research interests that I want to pursue in graduate school include high-performance computing/parallelism, computer architectures, and GPU computing/architectures.
-
-Always open to hearing about opportunities for new graduate full-time or internship opportunities, feel free to email me at <jhizgiae@stevens.edu>.
+Always open to hearing about opportunities for new graduate full-time opportunities, feel free to email me at <jhizgiae@stevens.edu>.
 
 ### What I have previously been up to
 
