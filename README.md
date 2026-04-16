@@ -2,9 +2,9 @@
 
 ## Who am I?
 
-A senior Computer Science and Mathematics student and self-taught programmer, interested in high frequency trading, quantitative research, low-level systems programming, ML algorithms, computational physics, and many more.
+A senior Computer Science and Mathematics student and self-taught programmer, interested in high frequency trading, quantitative research, systems programming, machine learning algorithms, computational physics, backend development, and many more.
 
-Always open to hearing about opportunities for new graduate full-time opportunities, feel free to email me at <jhizgiae@stevens.edu>.
+Always open to hearing about opportunities for new graduate full-time or internships, feel free to email me at <jhizgiae@stevens.edu>.
 
 ### What I have previously been up to
 
