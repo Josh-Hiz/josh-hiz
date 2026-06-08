@@ -8,7 +8,7 @@ Always open to hearing about opportunities for new graduate full-time or interns
 
 ### What I have previously been up to
 
-- May-August 2025: Joined Quantifi as a quantitative developer intern at [Quantifi](https://www.quantifisolutions.com).
+- May-August 2025: Joined Quantifi as a software/quantitative developer intern at [Quantifi](https://www.quantifisolutions.com).
 
 - May-August 2024: I joined [PanAgora Asset Management](https://www.panagora.com/), one of Boston's biggest hedgefunds and tier-one asset manager as a software engineer intern.
 
