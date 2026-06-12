@@ -2,15 +2,15 @@
 
 ## Who am I?
 
-A senior Computer Science and Mathematics student and self-taught programmer, interested in high frequency trading, quantitative research, systems programming, machine learning algorithms, computational physics, backend development, and many more.
+New-graduate Computer Science and Mathematics student and self-taught programmer, interested in high frequency trading, quantitative research, systems programming, machine learning algorithms, computational physics, backend development, and many more.
 
-Always open to hearing about opportunities for new graduate full-time or internships, feel free to email me at <jhizgiae@stevens.edu>.
+Questions? [Feel free to email me](jhizgiaev2704@gmail.com).
 
 ### What I have previously been up to
 
-- May-August 2025: Joined Quantifi as a software/quantitative developer intern at [Quantifi](https://www.quantifisolutions.com).
-
-- May-August 2024: I joined [PanAgora Asset Management](https://www.panagora.com/), one of Boston's biggest hedgefunds and tier-one asset manager as a software engineer intern.
+- August 2026: Joining [Trexquant](https://trexquant.com) as a full-time C++ software engineer!
+- May-August 2025: Joined [Quantifi](https://www.quantifisolutions.com) as a software engineer intern.
+- May-August 2024: Joined [PanAgora Asset Management](https://www.panagora.com/) as a software engineer intern.
 
 - June-August 2023: AI Research Intern at [Stevens Institute of Artificial Intelligence](https://www.stevens.edu/stevens-institute-for-artificial-intelligence) under [Dr. Jeffrey Nickerson](https://www.stevens.edu/profile/jnickers), working on analyzing terabytes of US employment data along with analyzing the growth of demand in data science and machine learning skill sets in the US job market in collaboration with [Columbia University](https://research.columbia.edu/)!
 
