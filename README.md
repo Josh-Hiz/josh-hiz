@@ -4,7 +4,7 @@
 
 New-graduate Computer Science and Mathematics student and self-taught programmer, interested in high frequency trading, quantitative research, systems programming, machine learning algorithms, computational physics, backend development, and many more.
 
-Questions? [Feel free to email me](jhizgiaev2704@gmail.com).
+Questions? Feel free to email me @ <jhizgiaev2704@gmail.com>.
 
 ### What I have previously been up to
 
